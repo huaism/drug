@@ -1,4 +1,4 @@
-# 药店/房管理系统 毕业设计 联系QQ: 791685330 huaism@126.com
+# 毕业设计药店/房管理系统  联系QQ: 791685330 huaism@126.com
 
 
 药店管理系统 mysql + springboot + mybatisplus
