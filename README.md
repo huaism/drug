@@ -1,10 +1,11 @@
 # 药房管理系统 药店管理系统  联系QQ: 791685330 huaism@126.com
 
-
-药店管理系统 mysql + springboot + mybatisplus
+访问地址：http://drug.softsshop.com/login 账号 admin 密码 123456
 
 展示界面：
 https://github.com/huaism/drug-vue
+
+药店管理系统 mysql + springboot + mybatisplus
 
 功能需求：
 1.1 药库药品管理：（药库药品入库、药库药品出库、药库药品报升报损、药库药品退库、药房药品退回、药库药品盘点、药品调价、药库药品效期管理
