@@ -28,3 +28,4 @@ https://github.com/huaism/drug-vue
 5）系统管理（登录用户设置、角色设置、角色权限分配、登录日志、数据库备份） 
 
 6）数据统计分析（挂号统计、门诊统计）
+![image](https://user-images.githubusercontent.com/19181634/160966290-7995a498-0ad9-4b6f-84d4-235f462225c9.png)
