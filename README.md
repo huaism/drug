@@ -1,4 +1,5 @@
-# 药房管理系统 药店管理系统  联系QQ: 791685330 
+# 药房管理系统 药店管理系统  
+合作联系QQ: 791685330 
 邮箱 ：huaism@126.com
 
 访问地址：http://drug.softsshop.com/login 账号 admin 密码 123456
